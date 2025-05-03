@@ -19,7 +19,7 @@ Este documento describe cómo desplegar la aplicación Pokémon, que consiste en
 
 La estructura general del proyecto es la siguiente:
 
-pokemon-app/
+```pokemon-app/
 ├── backend/         # Proyecto Django REST Framework
 │   ├── pokemon-app 
 │   │   ├── init.py
@@ -49,7 +49,7 @@ pokemon-app/
 ├── vite.config.js
 ├── package.json
 ├── yarn.lock
-└── ...
+└── ... ```
 
 ## Despliegue para Desarrollo Local
 
