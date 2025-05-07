@@ -6,10 +6,6 @@ Este documento describe cómo desplegar la aplicación Pokémon, que consiste en
 
 ## Estructura del Proyecto
 
-La estructura general del proyecto es la siguiente:
-¡Claro! Aquí tienes un ejemplo de un archivo README.md que describe cómo desplegar tu proyecto con un backend en Django REST Framework (Python) y un frontend en React (con Vite), considerando diferentes entornos (desarrollo y producción):
-
-Markdown
 
 # Despliegue de la Aplicación Pokémon
 
